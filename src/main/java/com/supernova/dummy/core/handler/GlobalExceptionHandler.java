@@ -1,4 +1,4 @@
-package com.supernova.dummy.core;
+package com.supernova.dummy.core.handler;
 
 import com.supernova.dummy.core.exception.DummyException;
 import com.supernova.dummy.core.wrapper.ResultResponse;
